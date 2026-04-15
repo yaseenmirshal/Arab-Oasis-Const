@@ -4,13 +4,13 @@
       <div class="col-lg-6">
         <div class="dz-media">
           <div class="img1 aos-item">
-            <img src="@/assets/images/about/pic1.jpg" alt="" />
+            <img src="https://visva-architect-interior-vuejs.netlify.app/assets/pic1-Uu0Nkczu.jpg" alt="" />
           </div>
           <div class="img2 aos-item">
-            <img src="@/assets/images/about/pic2.jpg" alt="" />
+            <img src="https://i.pinimg.com/736x/58/09/ee/5809ee71da5ce96842c902a193a3e497.jpg" alt="" />
           </div>
           <div class="img3 aos-item">
-            <img src="@/assets/images/about/pic3.jpg" alt="" />
+            <img src="https://i.pinimg.com/1200x/a2/f3/51/a2f35177f42ebb16a75ae73719567982.jpg" alt="" />
           </div>
         </div>
       </div>
@@ -20,10 +20,7 @@
           <h4 class="text aos-item">Years Of Working Experience</h4>
         </div>
         <p class="m-b30 aos-item">
-          Donec lacus velit, volutpat a consequat quis, placerat vitae massa. Nulla facilisi. Fusce
-          ac odio justo. Phasellus a risus in libero feugiat aliquam quis nec metus. Sed vulputate
-          bibendum nulla, eu sodales magna gravida nec. Integer sit amet sollicitudin massa, a
-          blandit lectus. Vivamus lacinia justo non congue blandit.
+          At ARAB OASIS CONSTRUCTION, CONSULTANCY and ENGINEERING COMPANY. we specialize in providing our clients with the best possible services and solutions to their operations and management needs. We are a medium-sized company, which allows us to give our clients the personalized attention they deserve. Our team is committed to providing our clients with the most innovative and cost-effective solutions to their needs.
         </p>
         <div class="accordion dz-accordion about-faq" id="aboutFaq">
           <div class="accordion-item">
@@ -66,7 +63,7 @@
                 aria-controls="aboutTwo"
               >
                 <i class="flaticon-interior-design"></i>
-                Architecture
+                Man Power
                 <span class="toggle-close"></span>
               </RouterLink>
             </h4>
@@ -95,7 +92,7 @@
                 aria-controls="aboutTwo"
               >
                 <i class="flaticon-blueprint"></i>
-                Interior
+                Equipments
                 <span class="toggle-close"></span>
               </RouterLink>
             </h4>

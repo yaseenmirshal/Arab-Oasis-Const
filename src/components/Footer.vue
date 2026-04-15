@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-5 aos-item">
-          <div class="footer-bg" :style="`background-image: url(${footerBg})`"></div>
+          <div class="footer-bg" :style="`background-image: url(https://i.pinimg.com/1200x/fb/d1/f7/fbd1f705ca4e493b4e9a7b2cef7ddb82.jpg)`"></div>
         </div>
         <div class="col-lg-7">
           <div class="footer-top">
@@ -76,7 +76,7 @@
           <div class="col-md-6 text-center text-md-start">
             <span class="copyright-text"
               >Copyright © {{ new Date().getFullYear() }}
-              <a href="https://ranzomtech.com/" class="text-primary" target="_blank">RanzomTech</a>
+              <a href="https://ranzomtecc.com/" class="text-primary" target="_blank">RanzomTech</a>
               All rights reserved.</span
             >
           </div>

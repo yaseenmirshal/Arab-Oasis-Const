@@ -21,7 +21,7 @@
     <div class="row spno">
       <div class="col-lg-12">
         <div class="video-bx content-media style-2">
-          <img src="@/assets/images/video/pic3.jpg" alt="" />
+          <img src="https://i.pinimg.com/1200x/d6/32/4d/d6324da1574bd99e6dc0856a49710ced.jpg" alt="" />
           <div class="video-btn aos-item">
             <RouterLink
               data-bs-target="#exampleModalToggle"

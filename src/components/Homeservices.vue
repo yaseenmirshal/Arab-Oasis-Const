@@ -35,11 +35,11 @@ export default defineComponent({
   setup() {
     return {
       HomeAervicesArr: [
-        { icon: 'flaticon-blueprint-1', title: 'Floor Plan Design' },
+        { icon: 'flaticon-blueprint-1', title: 'Civil & Buildings' },
         { icon: 'flaticon-crane', title: 'Construction Work' },
         { icon: 'flaticon-interior-design-1', title: 'Interior Designing' },
-        { icon: 'flaticon-furniture', title: 'Furniture Production' },
-        { icon: 'flaticon-home', title: 'Architecture Design' },
+        { icon: 'flaticon-furniture', title: 'Electrical Instrument' },
+        { icon: 'flaticon-home', title: 'Mechanical Works' },
         { icon: 'flaticon-support', title: '24X7 Support' }
       ]
     }
