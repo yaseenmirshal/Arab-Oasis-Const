@@ -13,7 +13,7 @@
           <div class="footer-top">
             <div class="row">
               
-            
+          
               <!-- LOGO + COMPANY NAME -->
               <div class="col-md-12 aos-item">
                 <div class="footer-logo logo-light d-flex align-items-center gap-2">
