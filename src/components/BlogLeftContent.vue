@@ -16,7 +16,7 @@
       </div>
       <div class="widget recent-posts-entry">
         <div class="widget-title">
-          <h4 class="title">Recent Posts</h4>
+          <h4 class="title">Recent Post</h4>
           <div class="dz-separator style-1 text-primary mb-0"></div>
         </div>
         <div class="widget-post-bx">
