@@ -8,7 +8,7 @@
           <p>
             Fusce accumsan felis sed purus sollicitudin posuere. Vivamus id pharetra augue.
             Phasellus molestie ornare lacus mattis iaculis. Nulla dui dui, convallis et venenatis
-            id, condimentum ut justo.
+            id, condimentum ut jto.
           </p>
         </div>
         <div
