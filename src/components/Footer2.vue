@@ -22,7 +22,7 @@
                 /></RouterLink>
               </div>
               <p>
-                Nullam nec rutrum eros. Maecenas maximus augue eget libero dictum, vitae tempus erat
+                Null nec rutrum eros. Maecenas maximus augue eget libero dictum, vitae tempus erat
                 pretium.
               </p>
               <div class="widget_getintuch">
