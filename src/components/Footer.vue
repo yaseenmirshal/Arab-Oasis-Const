@@ -91,7 +91,7 @@
           <div class="col-md-6 text-center text-md-start">
             <span class="copyright-text">
               Copyright © {{ new Date().getFullYear() }}
-              <a href="https://ranzomtecc.com/" class="text-primary" target="_blank">
+              <a href="https://ranzomtech.com/" class="text-primary" target="_blank">
                 RanzomTech
               </a>
               All rights reserved.
