@@ -14,7 +14,7 @@
             <div class="row">
               
           
-              <!-- LOGO + COMPANY NAME -->
+              <!-- LOGO + COMPANY NA -->
               <div class="col-md-12 aos-item">
                 <div class="footer-logo logo-light d-flex align-items-center gap-2">
                   <RouterLink to="/" class="d-flex align-items-center">
