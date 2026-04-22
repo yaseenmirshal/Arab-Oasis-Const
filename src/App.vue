@@ -7,10 +7,12 @@ import Header2 from './components/Header2.vue'
 import Footer3 from './components/Footer3.vue'
 import ScrollTop from './elements/ScrollTop.vue'
 import Cursor from './elements/Cursor.vue'
+import ComingSoon from './views/socialPages/ComingSoon.vue'
 </script>
 
 <template>
-  <div class="page-wraper">
+  <ComingSoon/>
+  <!-- <div class="page-wraper">
     <Cursor />
     <component :is="$route.meta.layout">
       <ScrollTop />
@@ -33,5 +35,5 @@ import Cursor from './elements/Cursor.vue'
     <component :is="$route.meta.layout4">
       <RouterView />
     </component>
-  </div>
+  </div> -->
 </template>

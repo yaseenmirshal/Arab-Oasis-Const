@@ -3,26 +3,37 @@
     <div class="dz-coming-soon style-4">
       <div class="sidenav-menu">
         <div class="logo">
-          <RouterLink to="/"><img src="@/assets/images/logo-icon.png" alt="" /></RouterLink>
+          <RouterLink to="/"><img src="@/assets/images/logo.png" alt="" /></RouterLink>
         </div>
+
         <ul class="dz-social-icon">
-          <li>
-            <RouterLink to="?"><span>Facebook</span></RouterLink>
-          </li>
-          <li>
-            <RouterLink to="?"><span>Twitter</span></RouterLink>
-          </li>
-          <li>
-            <RouterLink to="?"><span>Linkedin</span></RouterLink>
-          </li>
-        </ul>
+  <li>
+    <a href="https://facebook.com/" target="_blank" rel="noopener">
+      <span>Facebook</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://wa.me/966563544119" target="_blank" rel="noopener">
+      <span>Whatsapp</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://instagram.com/" target="_blank" rel="noopener">
+      <span>Instagram</span>
+    </a>
+  </li>
+</ul>
+        
+
+
       </div>
       <div class="clearfix dz-coming-bx">
         <div class="dz-content">
           <h2 class="dz-title ml2">
-            <span>We Are Doing Great,</span><br /><span>Almost Done...</span>
+            <span>
+</span>Our website is under construction<br /><span> check back soon!</span>
           </h2>
-          <div class="countdown">
+          <!-- <div class="countdown">
             <div class="date">
               <span class="days time">{{ days }}</span>
               <span>Days</span>
@@ -39,7 +50,7 @@
               <span class="secs time">{{ seconds }}</span>
               <span>Second</span>
             </div>
-          </div>
+          </div> -->
           <div class="dz-coming-btn">
             <RouterLink
               to="?"
@@ -58,7 +69,7 @@
         </div>
       </div>
       <div class="slider-box">
-        <img src="@/assets/images/bg8.jpg" alt="" />
+        <img src="https://i.pinimg.com/1200x/6d/aa/54/6daa54bf30bcada74f86cfaf5ed45563.jpg" alt="" />
       </div>
     </div>
     <div :class="`contact-sidebar ${openSidebar ? 'active' : ''}`">
@@ -74,11 +85,11 @@
             <div class="dz-separator style-1 text-primary mb-0"></div>
           </div>
           <p>
-            Aliquam erat volutpat. Nunc erat massa, porttitor vel egestas sit amet, tristique at
-            massa. Donec posuere odio neque, in ultricies lorem aliquet eu. Donec venenatis libero a
-            nulla placerat egestas.
+            At ARAB OASIS CONSTRUCTION, CONSULTANCY and ENGINEERING COMPANY.
+             we specialize in providing our clients with the best possible services and 
+             solutions to their operations and management needs.
           </p>
-          <RouterLink to="/about-us" class="btn btn-primary btn-sm btn-rounded"
+          <RouterLink to="" class="btn btn-primary btn-sm btn-rounded"
             >READ MORE</RouterLink
           >
         </div>
@@ -93,8 +104,7 @@
           <div class="icon-content">
             <h5 class="tilte">Call Now</h5>
             <p class="m-b0">
-              +91 123 456 7890,<br />
-              +91 987 654 3210
+              +966 56 354 4119
             </p>
           </div>
         </div>
@@ -103,8 +113,8 @@
             <span class="icon-cell"><i class="las la-envelope-open"></i></span>
           </div>
           <div class="icon-content">
-            <h5 class="tilte">Location</h5>
-            <p class="m-b0">info@gmail.com, services@gmail.com</p>
+            <h5 class="tilte">Email Now</h5>
+            <p class="m-b0">info@araboasis-const.com</p>
           </div>
         </div>
         <div class="icon-bx-wraper left">
@@ -112,8 +122,8 @@
             <span class="icon-cell"><i class="las la-map-marker"></i></span>
           </div>
           <div class="icon-content">
-            <h5 class="tilte">Email Now</h5>
-            <p class="m-b0">15/B Miranda House, New York, US</p>
+            <h5 class="tilte">Location</h5>
+            <p class="m-b0">Riyadh, Saudi Arabia</p>
           </div>
         </div>
       </div>
@@ -129,7 +139,7 @@
     >
       <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="inquiry-adv">
-          <img src="@/assets/images/img1.jpg" alt="" />
+          <img src="https://i.pinimg.com/736x/d7/f7/5e/d7f75e7c2bb86a0e8d28018d2f326ff4.jpg" alt="" />
         </div>
         <div class="modal-content">
           <div class="modal-header">
